@@ -8,5 +8,8 @@ Run `yarn install` or `npm-install` to install dependencies necessary to run the
 ### Deployment to gh-pages
 Fill the `homepage` field in `package.json` with your data instead of square braces: `https://[github user name].github.io/[repository name]`. Run `yarn deploy` or `npm run deploy`.
 
+### Demo
+You can find demo of this app [at the repository's gh-pages](https://loenko.github.io/react-flux-bootstrap-boilerplate/)
+
 ### Contributing
 Feel free to suggest enhancements/updates to it.
